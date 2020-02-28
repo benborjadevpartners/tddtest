@@ -1,0 +1,17 @@
+C:\Users\Home\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\netstandard2.0\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\Home\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\netstandard2.0\Mono.Cecil.dll
+C:\Users\Home\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\netstandard2.0\Mono.Cecil.Mdb.dll
+C:\Users\Home\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\netstandard2.0\Mono.Cecil.Pdb.dll
+C:\Users\Home\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\netstandard2.0\Mono.Cecil.Rocks.dll
+C:\Users\Home\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\netstandard2.0\nunit.core.dll
+C:\Users\Home\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\netstandard2.0\nunit.core.interfaces.dll
+C:\Users\Home\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\netstandard2.0\nunit.util.dll
+C:\Users\Home\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.deps.json
+C:\Users\Home\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.dll
+C:\Users\Home\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\netstandard2.0\ClassLibrary2.pdb
+C:\Users\Home\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.AssemblyInfo.cs
+C:\Users\Home\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.dll
+C:\Users\Home\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.pdb
+C:\Users\Home\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\netstandard2.0\ClassLibrary2.csprojAssemblyReference.cache
